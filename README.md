@@ -6,7 +6,9 @@ On lui donne un mot et il se charge d'afficher le mot en fonction de l'image bit
 
 Prérequis pour faire fonctionner le programme:
 
-- Installer python 
-- Installer git 
-- Ouvrer votre terminal où votre invite de commande
-- Clonner le répertoire ou télécharger le fichier Zip
+- Installer python3 
+- Télécharger le fichier zip et décompresser le fichier
+- Ouvrer le dossier décompresser dans votre terminal ou invie de commande
+- Démarrer le programme à l'aide de cette commande: python3 bitmapmessage.py
+
+Merci d'avoir essayé ce programme
