@@ -4,16 +4,11 @@ Ce programme en Python, intitulé "Bitmap Message", permet d'afficher un message
 
 # Instructions d'utilisation
 
-Bitmap Message
-
-Ce programme en Python, intitulé "Bitmap Message", permet d'afficher un message en utilisant un bitmap. Le bitmap est une représentation graphique du message où chaque caractère du message est associé à un espace dans le bitmap. Le programme parcourt ensuite le bitmap et affiche les caractères correspondants du message.
-Instructions d'utilisation
-
 1. Assurez-vous d'avoir Python3 installé sur votre système.
 2. Téléchargez le fichier bitmap_message.py sur votre ordinateur.
 3. Ouvrez une invite de commande (ou un terminal) et placez-vous dans le répertoire contenant le fichier bitmapmessage.py.
 4. Exécutez le programme en utilisant la commande suivante : python3 bitmapmessage.py
-5. Suivez les instructions affichées à l'écran pour entrer le message à afficher avec le bitmap.
+5. Suivez les instructions affichées à l'écran pour entrer le message à afficher avec le bitmap. Si aucun message n'est saisi (message vide), le programme se terminera.
 
 # Fonctionnement du programme
 
@@ -32,5 +27,5 @@ Instructions d'utilisation
 
 # Auteur
 
-Ce programme a été développé par Votre Maurias MEDEHO. N'hésitez pas à me contacter si vous avez des questions ou des suggestions d'amélioration.
+Ce programme a été développé par @Maurigeek. N'hésitez pas à me contacter si vous avez des questions ou des suggestions d'amélioration.
 
